@@ -1,0 +1,1 @@
+This is quite a confusing challenge where the tools used are not from binwalk or foresmost to find out the flags, but I use the stegsolve.jar tools to find the flags in the image. other than that you can use python to find the flag.
