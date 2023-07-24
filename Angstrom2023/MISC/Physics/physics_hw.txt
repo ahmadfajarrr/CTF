@@ -1,0 +1,15 @@
+b1,r,lsb,xy         .. b1,r,msb,xy         .. b1,g,lsb,xy         .. b1,g,msb,xy         .. b1,b,lsb,xy         .. b1,b,msb,xy         .. b1,a,lsb,xy         .. b1,a,msb,xy         .. b1,rgb,lsb,xy       .. text: "actf{physics_or_forensics}"
+b1,rgb,msb,xy       .. b1,bgr,lsb,xy       .. b1,bgr,msb,xy       .. b1,rgba,lsb,xy      .. b1,rgba,msb,xy      .. b1,abgr,lsb,xy      .. b1,abgr,msb,xy      .. b2,r,lsb,xy         .. b2,r,msb,xy         .. text: "_UUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUU"
+b2,g,lsb,xy         .. b2,g,msb,xy         .. text: "WUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUU"
+b2,b,lsb,xy         .. b2,b,msb,xy         .. text: ["U" repeated 239 times]
+b2,a,lsb,xy         .. b2,a,msb,xy         .. b2,rgb,lsb,xy       .. b2,rgb,msb,xy       .. text: ["U" repeated 204 times]
+b2,bgr,lsb,xy       .. b2,bgr,msb,xy       .. text: "}]UUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUU"
+b2,rgba,lsb,xy      .. b2,rgba,msb,xy      .. b2,abgr,lsb,xy      .. b2,abgr,msb,xy      .. text: ["W" repeated 186 times]
+b3,r,lsb,xy         .. b3,r,msb,xy         .. b3,g,lsb,xy         .. b3,g,msb,xy         .. b3,b,lsb,xy         .. b3,b,msb,xy         .. b3,a,lsb,xy         .. b3,a,msb,xy         .. b3,rgb,lsb,xy       .. b3,rgb,msb,xy       .. b3,bgr,lsb,xy       .. file: very old 16-bit-int big-endian archive
+b3,bgr,msb,xy       .. b3,rgba,lsb,xy      .. b3,rgba,msb,xy      .. b3,abgr,lsb,xy      .. b3,abgr,msb,xy      .. file: MPEG ADTS, layer I, v2,  96 kbps, Monaural
+b4,r,lsb,xy         .. b4,r,msb,xy         .. text: ["w" repeated 221 times]
+b4,g,lsb,xy         .. b4,g,msb,xy         .. text: ["w" repeated 221 times]
+b4,b,lsb,xy         .. b4,b,msb,xy         .. text: ["w" repeated 222 times]
+b4,a,lsb,xy         .. b4,a,msb,xy         .. b4,rgb,lsb,xy       .. b4,rgb,msb,xy       .. text: ["w" repeated 152 times]
+b4,bgr,lsb,xy       .. b4,bgr,msb,xy       .. text: ["w" repeated 151 times]
+b4,rgba,lsb,xy      .. b4,rgba,msb,xy      .. b4,abgr,lsb,xy      .. b4,abgr,msb,xy      ..                     
